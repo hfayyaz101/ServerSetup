@@ -10,6 +10,8 @@
 6. https://www.linuxbabe.com/mail-server/ubuntu-16-04-iredmail-server-installation
 7. https://docs.iredmail.org/install.iredmail.on.debian.ubuntu.html
 8. https://iredmail.org/download.html
+9. https://www.justcolin.co.uk/iredmail-ssl-certificate-installation-with-lets-encrypt/
+
 
 veryone experiencing this issue should execute these commands:
 ```
