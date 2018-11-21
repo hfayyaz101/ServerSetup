@@ -12,6 +12,15 @@
 8. https://iredmail.org/download.html
 9. https://www.justcolin.co.uk/iredmail-ssl-certificate-installation-with-lets-encrypt/
 
+WP only: NGINX
+to resolve permalinks issue.
+go to /etc/nginx/sites-availabel
+nano into domain name
+and add
+try_files $uri $uri/ /index.php?$args;
+and # other one in location.
+
+
 
 veryone experiencing this issue should execute these commands:
 ```
