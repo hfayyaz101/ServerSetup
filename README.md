@@ -17,7 +17,9 @@ to resolve permalinks issue.
 go to /etc/nginx/sites-availabel
 nano into domain name
 and add
+```
 try_files $uri $uri/ /index.php?$args;
+```
 and # other one in location.
 
 
