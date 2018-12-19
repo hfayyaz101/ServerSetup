@@ -10,7 +10,8 @@
 6. https://www.linuxbabe.com/mail-server/ubuntu-16-04-iredmail-server-installation
 7. https://docs.iredmail.org/install.iredmail.on.debian.ubuntu.html
 8. https://iredmail.org/download.html
-9. https://www.justcolin.co.uk/iredmail-ssl-certificate-installation-with-lets-encrypt/
+9. https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04#checking-for-the-gunicorn-socket-file
+10. https://www.justcolin.co.uk/iredmail-ssl-certificate-installation-with-lets-encrypt/
 
 WP only: NGINX
 to resolve permalinks issue.
